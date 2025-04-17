@@ -6,5 +6,5 @@ This Burp Suite extension detects whether certain headers are susceptible to Web
 ---
 
 ## Template Download
-📦 [Descargar .jar - v1.0.0](https://github.com/matiasnahuelheredia/ReflectedAndCacheBurpExtension/actions/runs/14521603512/artifacts/2965644910)
+📦 [Download .jar - v1.0.0](https://github.com/matiasnahuelheredia/ReflectedAndCacheBurpExtension/actions/runs/14521603512/artifacts/2965644910)
 
